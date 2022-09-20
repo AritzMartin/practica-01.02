@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T20:24:28.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DeqaI5C5E8oYDkg90Dna" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T20:28:10.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="iPpW4XzQf6IKEe_f4kYL" version="20.3.3" type="github">
   <diagram id="1XjNQObzMwLtmU3Wl38Y" name="Página-1">
     <mxGraphModel dx="1780" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,6 +103,14 @@
               <mxPoint x="440" y="475" />
               <mxPoint x="440" y="340" />
               <mxPoint x="555" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wKU1zmOduOE47sI-MYQm-60" target="OM4j7b3b33D8RclZtUaz-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="2820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155" y="2820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -376,6 +384,9 @@
         <mxCell id="OM4j7b3b33D8RclZtUaz-68" value="Entrego 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="2450" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM4j7b3b33D8RclZtUaz-70" target="OM4j7b3b33D8RclZtUaz-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OM4j7b3b33D8RclZtUaz-70" value="cambio = cambio - 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="2540" width="120" height="40" as="geometry" />
         </mxCell>
@@ -388,6 +399,25 @@
               <mxPoint x="520" y="2390" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM4j7b3b33D8RclZtUaz-73" target="OM4j7b3b33D8RclZtUaz-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-73" value="Escribir (&quot;Gracias por su compra, recoja el cambio!&quot;)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="2710" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-75" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OM4j7b3b33D8RclZtUaz-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="2390" as="sourcePoint" />
+            <mxPoint x="450" y="2510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="2560" />
+              <mxPoint x="350" y="2640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM4j7b3b33D8RclZtUaz-76" value="FIN" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="2820" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
