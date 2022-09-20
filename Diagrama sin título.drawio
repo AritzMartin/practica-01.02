@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T11:23:29.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ODT22Cl17Y2W6LhT4n3I" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-20T11:25:49.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="C0rXP3XCq926R7qJ70i0" version="20.3.3" type="github">
   <diagram id="1XjNQObzMwLtmU3Wl38Y" name="Página-1">
     <mxGraphModel dx="953" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,9 @@
             <mxPoint x="624" y="260" as="sourcePoint" />
             <mxPoint x="414" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wKU1zmOduOE47sI-MYQm-9" value="Introduce el carácter" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="110" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
